@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋 Welcome to my Github page! 
+
+You can find me online at [timhuebener.com](timhuebener.com), on [@timhuebener](https://twitter.com/timhuebener) and on [LinkedIn/timhuebener](https://www.linkedin.com/in/timhuebener/)
+
+
 
 <!--
 **timhuebener/timhuebener** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +18,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
