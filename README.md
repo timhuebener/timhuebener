@@ -1,6 +1,6 @@
 ### Hi there 👋 Welcome to my Github page! 
 
-You can find me online at [timhuebener.com](timhuebener.com), on [@timhuebener](https://twitter.com/timhuebener) and on [LinkedIn/timhuebener](https://www.linkedin.com/in/timhuebener/)
+You can find me online at [timhuebener.com](https://timhuebener.com), on [@timhuebener](https://twitter.com/timhuebener) and on [LinkedIn/timhuebener](https://www.linkedin.com/in/timhuebener/)
 
 
 
